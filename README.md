@@ -34,7 +34,7 @@ Make sure you have Python installed. Then install the dependencies using:
 🧾 How to Use
 
 1.📥 Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/NarayanTheRocker/Face_Recognition_With_Custom_Images_Using_OpenCV_.git
 cd your-repo-name
 
 2.🚀 Run the Code
