@@ -30,14 +30,20 @@ You’ll find:
 
 Make sure you have Python installed. Then install the dependencies using:
 
-```bash
-pip install -r requirements.txt
+### ✅ To Use:
+🧾 How to Use
 
-Clone the repository
-
+1.📥 Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-Run the code
+2.🚀 Run the Code
 python recognize_faces.py
-Smile for the camera 📸 and watch the magic happen!
+
+3.😄 Smile for the Camera
+📸 Watch the magic happen as the system identifies who's in the frame!
+
+🤖 Tech Stack
+Python 🐍
+OpenCV 👁️
+face_recognition library 🧬
